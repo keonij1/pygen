@@ -13,3 +13,6 @@ plantear patrones y filtros para descartar npumeros
     #5864443200 Permutaciones
     #8145060 Combinaciones
 
+#Por hacer:
+hacer que el vector que almacena los resultados, guarde solo certa cantidad de vectores en archivos csv o txt
+de esta forma se busca evitar que el computador que lo corra no se ponga lento.
